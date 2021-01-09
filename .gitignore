@@ -9,6 +9,8 @@
 .xls
 .csv
 .tsv
+.data
+.gold
 .OpinosisDataset1.0
 
 # Package Files #
