@@ -1,20 +1,19 @@
 .DS_Store
 .ipynb_checkpoints/*.ipynb
 .ipynb_checkpoints
-.mercari-price-suggestion-challenge
-.word2vec-nlp-tutorial
+
 
 # Data Files #
-.xlsx
-.xls
-.csv
-.tsv
-.data
-.gold
-.OpinosisDataset1.0
+*.xlsx
+*.xls
+*.csv
+*.tsv
+data/
+mercari-price-suggestion-challenge/
+word2vec-nlp-tutorial/
 
 # Package Files #
-.zip
-.war
-.rar
-.7z
+*.zip
+*.war
+*.rar
+*.7z
